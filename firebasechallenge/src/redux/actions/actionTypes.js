@@ -1,0 +1,6 @@
+export default {
+  LOGIN: 'LOGIN',
+  LOGOUT: 'LOGOUT',
+  ERROR_LOGIN: 'ERROR_LOGIN',
+  ERROR_LOGOUT: 'ERROR_LOGOUT'
+};
